@@ -1,4 +1,4 @@
-# Project name
+# Dotfiles
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/AndrewUsher/dotfiles)
 ![GitHub contributors](https://img.shields.io/github/contributors/AndrewUsher/dotfiles)
