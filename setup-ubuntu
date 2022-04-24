@@ -1,5 +1,11 @@
 #!/bin/bash
 
+echo "☕️ Installing copyq"
+sudo add-apt-repository ppa:hluk/copyq
+sudo apt update
+sudo apt install -y copyq
+echo "✅ copyq installed"
+
 echo "☕️ Installing fd"
 sudo apt install fd-find
 echo "✅ fd installed"
