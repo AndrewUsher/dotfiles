@@ -9,3 +9,9 @@ echo "✅ git user.email -> andrewusher00@gmail.com"
 
 git config --global user.name "Andrew Usher"
 echo "✅ git user.name -> Andrew Usher"
+
+git config --global stash.showPatch true
+echo "✅ git stash.showPatch enabled"
+
+git config --global status.short true
+echo "✅ git status.short enabled"
