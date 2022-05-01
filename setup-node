@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "☕️ Installing yarn"
+npm i -g yarn
+echo "✅ yarn installed"
